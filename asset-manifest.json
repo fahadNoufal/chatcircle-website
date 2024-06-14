@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chatcircle-website/static/css/main.7a9237ed.css",
-    "main.js": "/chatcircle-website/static/js/main.7667a152.js",
+    "main.css": "/chatcircle-website/static/css/main.52de3033.css",
+    "main.js": "/chatcircle-website/static/js/main.0cc67a36.js",
     "static/js/453.4b15ac53.chunk.js": "/chatcircle-website/static/js/453.4b15ac53.chunk.js",
     "static/media/create-room-head-img.svg": "/chatcircle-website/static/media/create-room-head-img.42b2da18c22b5f3221456c7ebc8ce8d1.svg",
     "static/media/homeImg1.png": "/chatcircle-website/static/media/homeImg1.b4e0377bea82af7ef532.png",
@@ -39,12 +39,12 @@
     "static/media/double-down-icon.svg": "/chatcircle-website/static/media/double-down-icon.cc618bdfb57ddcbcf534c45ce70771eb.svg",
     "static/media/nextIcon.svg": "/chatcircle-website/static/media/nextIcon.3959db03555673e275cb5464829c050b.svg",
     "static/media/previousIcon.svg": "/chatcircle-website/static/media/previousIcon.f59b8cfcbcda17241fd52d68f8d221a6.svg",
-    "main.7a9237ed.css.map": "/chatcircle-website/static/css/main.7a9237ed.css.map",
-    "main.7667a152.js.map": "/chatcircle-website/static/js/main.7667a152.js.map",
+    "main.52de3033.css.map": "/chatcircle-website/static/css/main.52de3033.css.map",
+    "main.0cc67a36.js.map": "/chatcircle-website/static/js/main.0cc67a36.js.map",
     "453.4b15ac53.chunk.js.map": "/chatcircle-website/static/js/453.4b15ac53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a9237ed.css",
-    "static/js/main.7667a152.js"
+    "static/css/main.52de3033.css",
+    "static/js/main.0cc67a36.js"
   ]
 }
